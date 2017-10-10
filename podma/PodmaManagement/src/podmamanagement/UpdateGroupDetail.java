@@ -19,7 +19,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Joy
+ * @author millat
  */
 public class UpdateGroupDetail extends javax.swing.JFrame {
 
